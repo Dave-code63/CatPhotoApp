@@ -1,1 +1,2 @@
-# CatPhotoApp
+# Description
+Learn HTML by Building a Cat Photo App.
